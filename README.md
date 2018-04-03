@@ -11,3 +11,10 @@
 ##### Test Heading 6
 
 plain text
+
+
+This is an **Emphasized** Txt
+
+Italic _RAVI_
+
+Underline __Kumar__
