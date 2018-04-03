@@ -37,5 +37,17 @@ Italic _RAVI_
 ##### For .png / .jpegs / .jpg
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RbqrTCs5fA20_rspHGQrAKcgw4J4Llhu0B9QVjJlqBgZEewV2Q">
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd67CCNmlrEeDuZZxru3v-lzhxRiMKjFonLDy1unxeaXqWGyf)
+![alt text](https://media1.giphy.com/media/xThuWt89yRv9xkJyco/200w.webp)
+> Blockquote
+
+`p = 10;`
+
+```
+public void login(View v)
+{
+.
+.
+}
+
+
 
