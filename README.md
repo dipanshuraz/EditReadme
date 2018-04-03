@@ -37,7 +37,7 @@ Italic _RAVI_
 ##### For .png / .jpegs / .jpg
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RbqrTCs5fA20_rspHGQrAKcgw4J4Llhu0B9QVjJlqBgZEewV2Q">
-![alt text](https://media1.giphy.com/media/xThuWt89yRv9xkJyco/200w.webp)
+![alt text](https://media.giphy.com/media/xThuWt89yRv9xkJyco/giphy.gif)
 > Blockquote
 
 `p = 10;`
