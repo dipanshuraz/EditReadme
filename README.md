@@ -20,3 +20,16 @@ Italic _RAVI_
  __Kumar__
 
 *Deepanshu*
+
+### Bullet Points
+
+* Number 1
+* Number 2
+* Number 3
+
+### Again a list 
+
+- Number 1 
+- Number 2
+- Number 3
+
