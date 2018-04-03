@@ -36,4 +36,4 @@ Italic _RAVI_
 ### Add an Image
 ##### For .png / .jpegs / .jpg
 
-<img src="http://wp.flash-jet.com/category/android/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RbqrTCs5fA20_rspHGQrAKcgw4J4Llhu0B9QVjJlqBgZEewV2Q">
