@@ -33,3 +33,7 @@ Italic _RAVI_
 - Number 2
 - Number 3
 
+### Add an Image
+##### For .png / .jpegs / .jpg
+
+<img src="http://wp.flash-jet.com/category/android/">
